@@ -4,47 +4,60 @@
 
 ## About Me
 
-I'm a recent Software Development graduate with a passion for building modern, user-focused applications using C#, ASP.NET Core, SQL Server and React.
+I'm a Software Development graduate with a passion for designing and building modern, reliable software solutions.
 
-I enjoy solving problems, learning new technologies and building practical software that delivers real value. I'm currently expanding my portfolio through personal projects while seeking my first Graduate Software Engineer or Software Developer role.
+I enjoy solving real-world problems through clean, maintainable code and continuously developing my skills across backend, frontend and full-stack development.
 
-## Tech Stack
+I'm currently building software projects to strengthen my technical expertise while pursuing opportunities as a Software Engineer or Software Developer.
 
-**Languages**
+---
+
+## Technical Skills
+
+### Languages
 - C#
 - Java
 - JavaScript
 - SQL
-- HTML
-- CSS
+- HTML5
+- CSS3
 
-**Frameworks & Technologies**
+### Frameworks & Technologies
 - ASP.NET Core
 - .NET
 - React
 - Entity Framework Core
 - REST APIs
 
-**Tools**
+### Tools
 - Git
 - GitHub
 - Visual Studio
 - Visual Studio Code
 - SQL Server
 
-## Currently Working On
+---
 
-- 🚀 Building real-world full-stack applications
-- 📚 Improving my ASP.NET Core and React skills
-- 💻 Expanding my GitHub portfolio
-- 🎯 Preparing for Graduate Software Engineer interviews
+## Interests
 
-## Goals for 2026
+- Backend Development
+- Full-Stack Development
+- REST API Design
+- Database Design
+- Software Architecture
+- Object-Oriented Programming
+- Clean Code
+- Cloud Technologies
 
-- Build a strong software development portfolio
-- Contribute to open-source projects
-- Land my first Graduate Software Engineer role
-- Continue learning modern software engineering practices
+---
+
+## What You'll Find Here
+
+This GitHub profile contains software development projects that demonstrate my learning journey, technical skills and approach to solving real-world problems.
+
+Projects include web applications, REST APIs, backend systems and other software engineering work built using modern development practices.
+
+---
 
 ## Connect with Me
 
